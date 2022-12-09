@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software is an Art.
+subtitle: In love with the Art of Software
 
 profile:
   align: right
@@ -14,13 +14,13 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+<br>
 I'm a Machine Learning Scientist, former Dental Surgeon (no kidding), and Vanier Scholar of Canada. 
 
-What I do these days?
-- I am primarily employed as a Principal Applied Scientist at Microsoft where I spend most of my Machine Learning cycles.
-- I'm the Co-founder and CTO of [Offerland](https://offerland.ca/) and have been leading its technical team since 2019.
-- I teach Machine Teaching in UBC, when I can!
+These days
+- **Principal Applied Scientist** at [Microsoft](https://www.linkedin.com/company/microsoft/) where I spend most of my Machine Learning cycles.
+- As **Chief Technology Officer**, continue to lead the technical team of [Offerland](https://offerland.ca/) which I co-founded in 2019.
+- **Teach** Machine Teaching courses in [UBC](http://ubc.ca/), whenever I can. 
 
 
 <br>
