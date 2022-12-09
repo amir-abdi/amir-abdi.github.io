@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amir-abdi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - amir-abdi/disentanglement-pytorch
+  - amir-abdi/keras_to_tensorflow
+  - amir-abdi/echo-generation
+  - amir-abdi/prob-shape-completion
+  - amir-abdi/artisynth-rl
+  - amir-abdi/portable-me
+  - amir-abdi/OrthoAid
+  - amir-abdi/artisynth-rl
+  - amir-abdi/artisynth-tracking
