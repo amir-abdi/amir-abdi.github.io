@@ -15,7 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
-I'm a Machine Learning Scientist, former Dental Surgeon (no kidding), and Vanier Scholar of Canada. 
+I'm a Machine Learning Scientist, enjoy building/hacking no matter what, 
+former Dental Surgeon (no kidding), and Vanier Scholar of Canada. 
 
 These days
 - **Principal Applied Scientist** at [Microsoft](https://www.linkedin.com/company/microsoft/) where I spend most of my Machine Learning cycles.
