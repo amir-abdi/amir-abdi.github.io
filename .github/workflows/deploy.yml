@@ -9,6 +9,9 @@ on:
     branches:
       - master
       - main
+  schedule:
+    # At 00:00 on Monday and Thursday.
+    - cron: '0 0 * * 1,4'
 
 jobs:
   deploy:
