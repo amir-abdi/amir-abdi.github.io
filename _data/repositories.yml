@@ -2,6 +2,7 @@ github_users:
   - amir-abdi
 
 github_repos:
+  - amir-abdi/docgpt
   - amir-abdi/disentanglement-pytorch
   - amir-abdi/keras_to_tensorflow
   - amir-abdi/echo-generation
